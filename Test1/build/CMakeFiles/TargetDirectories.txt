@@ -1,0 +1,3 @@
+/home/jeek/github/cmake/Test1/build/CMakeFiles/rebuild_cache.dir
+/home/jeek/github/cmake/Test1/build/CMakeFiles/edit_cache.dir
+/home/jeek/github/cmake/Test1/build/CMakeFiles/Test1.dir
